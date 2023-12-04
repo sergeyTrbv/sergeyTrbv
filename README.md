@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="https://i.yapx.cc/G7wDq.gif" width="200">
+  <img src="https://i.yapx.cc/G7wDq.gif" width="150">
 </div>
 
 ## Привет друзья, меня зовут Сергей! 👋
