@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="[[https://i.yapx.cc/G7wDq.gif](https://usagif.com/wp-content/uploads/cat-typing-16.gif](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif))" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150">
 </div>
 
 ## Привет друзья, меня зовут Сергей! 👋
