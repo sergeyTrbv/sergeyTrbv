@@ -15,6 +15,10 @@
 ![Intellij_Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sergeyTRBV)](https://leetcode.com/JacobLinCool)
+
 <div style="text-align: center;">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150">
 </div>
+
+ 
