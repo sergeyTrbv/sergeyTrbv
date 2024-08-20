@@ -16,6 +16,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-00000000?style=for-the-badge&logo=selenium&logoColor=white)
 ![Selenium](https://img.shields.io/badge/cucumber-cccccc?style=for-the-badge&logo=Cucumber&logoColor=black)
+![Selenium](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sergeyTRBV)](https://leetcode.com/sergeyTRBV)
 
