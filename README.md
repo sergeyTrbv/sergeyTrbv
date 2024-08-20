@@ -17,7 +17,7 @@
 ![Selenium](https://img.shields.io/badge/cucumber-cccccc?style=for-the-badge&logo=Cucumber&logoColor=black)
 ![Selenium](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" align="right" width=27%>
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" align="right" width=25%>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sergeyTRBV)](https://leetcode.com/sergeyTRBV)
 
