@@ -14,10 +14,10 @@
 ![Intellij_Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-00000000?style=for-the-badge&logo=selenium&logoColor=white)
-![Selenium](https://img.shields.io/badge/cucumber-cccccc?style=for-the-badge&logo=Cucumber&logoColor=black)
-![Selenium](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/cucumber-cccccc?style=for-the-badge&logo=Cucumber&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" align="right" width=25%>
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" align="right" width=23%>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sergeyTRBV)](https://leetcode.com/sergeyTRBV)
 
